@@ -171,4 +171,6 @@
     .hero p{
         font-size: 5vw;
     }
+    .footerScroller{
+        height: 30vh; 
 }
