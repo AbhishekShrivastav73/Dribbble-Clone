@@ -53,7 +53,7 @@
 }
 @media (max-width:600px) {
     .heroContainer nav{
-        height: 13vh;
+        height: 11vh;
     }
     .signUps input{
         display: none;
