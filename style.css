@@ -84,6 +84,9 @@ main{
   border: none;
   background-color: #FFFFFF;
 }
+.links i{
+  display: none;
+}
 
 /* .......Hero section .....  */
 .hero{
@@ -259,6 +262,9 @@ section .box .boxFooter img{
   width: 1.8vw;
   border-radius: 50%;
 }
+.boxFooter i{
+  font-size: 1.1vw;
+}
 section .box .boxFooter p{
   font-size: 1vw;
   color: black;
@@ -314,6 +320,7 @@ section .box .boxFooter p{
   border: none;
   border-radius: 3vw;
   font-weight: 600;
+  font-size: 1.2vw;
 }
 .join .btns button:last-child{
   background-color: white;
@@ -397,6 +404,8 @@ footer{
   display: flex;
   gap: 2.4vw;
   font-weight: 600;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 .footer-part1 div a{
   color: black;
