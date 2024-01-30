@@ -24,13 +24,13 @@ A stunning and responsive landing page created with HTML and CSS to showcase a m
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abhishekshrivastav73.github.io/CUberto-Clone.git
+git clone https://github.com/abhishekshrivastav73.github.io/Dribbble-Clone.git
 ```
 
 2. Open the project folder:
 
 ```bash
-cd CUberto-Clone
+cd Dribbble-Clone
 ```
 
 3. Open `index.html` in your preferred browser or integrate it into your project.
