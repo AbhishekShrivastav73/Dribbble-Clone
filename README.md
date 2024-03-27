@@ -11,6 +11,7 @@ A stunning and responsive landing page created with HTML and CSS to showcase a m
 - [Contributing](#contributing)
 - [License](#license)
 
+<img width="948" alt="Screenshot 2024-03-27 235024" src="https://github.com/AbhishekShrivastav73/Dribbble-Clone/assets/147899930/f77a718f-cc8e-47fa-91f3-83f99524850f">
 
 ## Features
 
